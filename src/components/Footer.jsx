@@ -8,23 +8,23 @@ const Footer = () => {
 
                         <div className="comp-logo">
                             <a className="logo-link" href="#">
-                                <img className="logo-svg" src="./images/StudySyn.svg" />
+                                <img className="logo-svg" src="../../src/assets/images/StudySyn.svg" />
                                 StudySync
                             </a>
                         </div>
                         <p className="filler-text">Seamless Learning for Brighter Futures.</p>
                         <div className="social">
                             <a className="social-link" href="#">
-                                <img src="./images/instagram.svg" className="social-icon" />
+                                <img src="../../src/assets/images/instagram.svg" className="social-icon" />
                             </a>
                             <a className="social-link">
-                                <img src="./images/linkedin.svg" className="social-icon" />
+                                <img src="../../src/assets/images/linkedin.svg" className="social-icon" />
                             </a>
                             <a className="social-link">
-                                <img src="./images/Microsoft.svg" className="social-icon" />
+                                <img src="../../src/assets/images/Microsoft.svg" className="social-icon" />
                             </a>
                             <a className="social-link">
-                                <img src="./images/twitter.svg" className="social-icon" />
+                                <img src="../../src/assets/images/twitter.svg" className="social-icon" />
                             </a>
                         </div>
                     </div>

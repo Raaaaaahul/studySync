@@ -6,22 +6,22 @@ const Partners = () => {
                 <div className="company-grid">
 
                     <div className="company-logo">
-                        <img src="../../images/Google.svg" className="svg-img" />
+                        <img src="../../src/assets/images/Google.svg" className="svg-img" />
                         <span className="logo-txt">Google</span>
                     </div>
 
                     <div className="company-logo">
-                        <img src="../../images/Microsoft.svg" className="svg-img" />
+                        <img src="../../src/assets/images/Microsoft.svg" className="svg-img" />
                         <span className="logo-txt">Microsoft</span>
                     </div>
 
                     <div className="company-logo">
-                        <img src="../../images/linkedin.svg" className="svg-img" />
+                        <img src="../../src/assets/images/linkedin.svg" className="svg-img" />
                         <span className="logo-txt">Linkedin</span>
                     </div>
 
                     <div className="company-logo">
-                        <img src="../../images/VectorEdu.svg" className="svg-img" />
+                        <img src="../../src/assets/images/VectorEdu.svg" className="svg-img" />
                         <span className="logo-txt">VectorEdu</span>
                     </div>
 

@@ -5,7 +5,7 @@ const NewsLetter = () => {
                 <div className="newsletter-content">
 
                     <div className="news-left">
-                        <img src="./images/img.png" loading="lazy" alt="news-img" />
+                        <img src="../../src/assets/images/img.png" loading="lazy" alt="news-img" />
                     </div>
 
                     <div className="news-right">
@@ -32,7 +32,7 @@ const NewsLetter = () => {
                             </a>
                             &nbsp;and&nbsp;
                             <a className=" news-link ">
-                                &nbsp; Privacy policy
+                                Privacy policy
                             </a>
                         </div>
 

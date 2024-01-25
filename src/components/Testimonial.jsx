@@ -13,7 +13,7 @@ const Testimonial = () => {
                                 “StudySync revolutionized my classroom! Engaging content and teacher resources make learning enjoyable. Highly recommended for educators.”
                             </div>
                             <div className="testimonial-avatar">
-                                <img src="./images/avatar1.png" />
+                                <img src="../../src/assets/images/avatar1.png" />
                             </div>
                             <div className="testimonial-details">
                                 <h3 className="testimonial-name">
@@ -30,7 +30,7 @@ const Testimonial = () => {
                                 “StudySync transformed our familys learning journey. Safe, interactive, and progress tracking features are invaluable for parents.”
                             </div>
                             <div className="testimonial-avatar">
-                                <img src="./images/avatar2.png" />
+                                <img src="../../src/assets/images/avatar2.png" />
                             </div>
                             <div className="testimonial-details">
                                 <h3 className="testimonial-name">
@@ -47,7 +47,7 @@ const Testimonial = () => {
                                 “StudySync, a true game-changer! Flexible content, tailored assessments, and excellent support. Integral to our school districts success.”
                             </div>
                             <div className="testimonial-avatar">
-                                <img src="./images/avatar3.png" />
+                                <img src="../../src/assets/images/avatar3.png" />
                             </div>
                             <div className="testimonial-details">
                                 <h3 className="testimonial-name">

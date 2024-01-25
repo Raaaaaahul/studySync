@@ -19,7 +19,7 @@ const Content = () => {
                     <div className="content-right">
 
                         <div className="image-container">
-                            <img src="../../images/usgs-hoS3dzgpHzw-unsplash.jpg" className="section-image" />
+                            <img src="../../src/assets/images/usgs-hoS3dzgpHzw-unsplash.jpg" className="section-image" />
                         </div>
 
                     </div>

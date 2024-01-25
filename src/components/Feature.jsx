@@ -15,7 +15,7 @@ const Feature = () => {
                     <div className="feature-grid">
                         <div className="feature-card">
                             <div className="icon-container">
-                                <img className="feature-svg" src="./images/PersonalizedLearn.svg" />
+                                <img className="feature-svg" src="../../src/assets/images/PersonalizedLearn.svg" />
                             </div>
                             <div className="feature-info">
                                 <div className="feature-title">
@@ -28,7 +28,7 @@ const Feature = () => {
                         </div>
                         <div className="feature-card">
                             <div className="icon-container">
-                                <img className="feature-svg" src="./images/Affordability.svg" />
+                                <img className="feature-svg" src="../../src/assets/images/Affordability.svg" />
                             </div>
                             <div className="feature-info">
                                 <div className="feature-title">
@@ -41,7 +41,7 @@ const Feature = () => {
                         </div>
                         <div className="feature-card">
                             <div className="icon-container">
-                                <img className="feature-svg" src="./images/IndustryPatner.svg" />
+                                <img className="feature-svg" src="../../src/assets/images/IndustryPatner.svg" />
                             </div>
                             <div className="feature-info">
                                 <div className="feature-title">
@@ -55,7 +55,7 @@ const Feature = () => {
 
                         <div className="feature-card">
                             <div className="icon-container">
-                                <img className="feature-svg" src="./images/InnovativeTech.svg" />
+                                <img className="feature-svg" src="../../src/assets/images/InnovativeTech.svg" />
                             </div>
                             <div className="feature-info">
                                 <div className="feature-title">
@@ -69,7 +69,7 @@ const Feature = () => {
 
                         <div className="feature-card">
                             <div className="icon-container">
-                                <img className="feature-svg" src="./images/IndustryPatner.svg" />
+                                <img className="feature-svg" src="../../src/assets/images/IndustryPatner.svg" />
                             </div>
                             <div className="feature-info">
                                 <div className="feature-title">
@@ -83,7 +83,7 @@ const Feature = () => {
 
                         <div className="feature-card">
                             <div className="icon-container">
-                                <img className="feature-svg" src="./images/Analytics.svg" />
+                                <img className="feature-svg" src="../../src/assets/images/Analytics.svg" />
                             </div>
                             <div className="feature-info">
                                 <div className="feature-title">

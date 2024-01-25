@@ -6,7 +6,7 @@ const Navbar = () => {
                 <header className="header-content">
 
                     <a href="#logo" className="logo">
-                        <img src="../../images/StudySyn.svg" alt="logoImage" className="logo-icon" />
+                        <img src="../../src/assets/images/StudySyn.svg" alt="logoImage" className="logo-icon" />
                         <span className="logo-text">StudySync</span>
                     </a>
 
@@ -23,7 +23,7 @@ const Navbar = () => {
                     </a>
 
                     <button type="button" className="menu-button">
-                        <img src="./images/Hamburger.svg" alt="menuButton" className="menu-icon" />
+                        <img src="../../src/assets/images/Hamburger.svg" alt="menuButton" className="menu-icon" />
                     </button>
 
                 </header>
